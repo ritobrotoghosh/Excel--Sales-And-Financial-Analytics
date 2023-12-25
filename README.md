@@ -1,11 +1,10 @@
 # Excel--Sales-and-Financial-Analytics
 
-Sales Report :
-Project objective:
+## Project objective:
 
-1. Create a customer performance report
+- Create a customer performance report
 
-2. Conduct a comprehensive comparison between market performance and sales targets
+- Conduct a comprehensive comparison between market performance and sales t
 
 Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
 
